@@ -2,7 +2,7 @@ import org.openapitools.generator.gradle.plugin.tasks.GenerateTask
 
 plugins {
     kotlin("jvm") version "1.7.0"
-    id("org.openapi.generator") version "4.3.1"
+    id("org.openapi.generator") version "6.0.0"
 }
 
 group = "de.beiertu"
