@@ -14,7 +14,7 @@ repositories {
 
 dependencies {
     implementation("com.fasterxml.jackson.core:jackson-annotations:2.15.2")
-    implementation("com.fasterxml.jackson.core:jackson-databind:2.15.1")
+    implementation("com.fasterxml.jackson.core:jackson-databind:2.15.2")
     implementation("com.google.code.findbugs:jsr305:3.0.2")
     implementation("io.swagger:swagger-annotations:1.6.11")
 }
